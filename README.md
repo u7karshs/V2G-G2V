@@ -14,10 +14,10 @@ This project provides a detailed technical assessment, with various power electr
 6. CONCLUSION AND POSSIBLE FUTURE WORK 
 
 ## Simulation Files and Results
-1. [Three phase full conv](https://github.com/u7karshs/V2G-G2V/tree/main/1.%20Three%20phase%20full%20conv)
+1. [Three Phase Full Bridge Converter](https://github.com/u7karshs/V2G-G2V/tree/main/1.%20Three%20phase%20full%20conv)
 2. [Three phase PWM inverter](https://github.com/u7karshs/V2G-G2V/tree/main/2.%20Three%20phase%20PWM%20inverter)
-3. [DC-DC LDV](https://github.com/u7karshs/V2G-G2V/tree/main/3.%20DC-DC%20LDV)
-4. [G2V HDV](https://github.com/u7karshs/V2G-G2V/tree/main/4.%20G2V%20HDV)
-5. [V2G fast charging](https://github.com/u7karshs/V2G-G2V/tree/main/5.%20V2G%20fast%20charging)
-6. [V2G-G2V with toggle switch Proj](https://github.com/u7karshs/V2G-G2V/tree/main/6.%20V2G-G2V%20with%20toggle%20switch%20Proj)
-7. [V2G-G2V with parallel operation of battery](https://github.com/u7karshs/V2G-G2V/tree/main/7.%20V2G-G2V%20with%20parallel%20operation%20of%20battery)
+3. [DC-DC converter for LDV](https://github.com/u7karshs/V2G-G2V/tree/main/3.%20DC-DC%20LDV)
+4. [G2V HDV, Full Bridge Two-Quad Converter for HDV](https://github.com/u7karshs/V2G-G2V/tree/main/4.%20G2V%20HDV)
+5. [V2G fast charging, Implementing Reverse charging](https://github.com/u7karshs/V2G-G2V/tree/main/5.%20V2G%20fast%20charging)
+6. [V2G-G2V with toggle switch operation control](https://github.com/u7karshs/V2G-G2V/tree/main/6.%20V2G-G2V%20with%20toggle%20switch%20Proj)
+7. [V2G-G2V with parallel operation of batteries](https://github.com/u7karshs/V2G-G2V/tree/main/7.%20V2G-G2V%20with%20parallel%20operation%20of%20battery)
