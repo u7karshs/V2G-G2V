@@ -13,7 +13,7 @@ This project provides a detailed technical assessment, with various power electr
 5. IMPLEMENTING AUTONOMOUS V2G-G2V CONTROLLED OPERATION
 6. CONCLUSION AND POSSIBLE FUTURE WORK 
 
-## SIMULATION FILES
+## Simulation Files and Results
 1. [Three phase full conv](https://github.com/u7karshs/V2G-G2V/tree/main/1.%20Three%20phase%20full%20conv)
 2. [Three phase PWM inverter](https://github.com/u7karshs/V2G-G2V/tree/main/2.%20Three%20phase%20PWM%20inverter)
 3. [DC-DC LDV](https://github.com/u7karshs/V2G-G2V/tree/main/3.%20DC-DC%20LDV)
