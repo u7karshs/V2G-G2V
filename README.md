@@ -5,7 +5,7 @@ The objective of this project is to design and implement power converter topolog
 
 This project provides a detailed technical assessment, with various power electronics topologies, modeling and control strategies designed in terms of harmonics and dynamic response.
 
-## REPORT-CONTENTS
+## Report-Contents
 1. INTRODUCTION AND GOALS OF THE PROJECT 
 2. PROPOSED WORK 
 3. IMPLEMENTATION OF TOPOLOGIES 
